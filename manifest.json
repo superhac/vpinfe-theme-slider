@@ -1,0 +1,10 @@
+{
+  "name": "Slider",
+  "version": "1.0",
+  "author": "superhac",
+  "description": "A slider theme",
+  "preview_image": "preview.png",
+  "supported_screens": 3,
+  "type": "desktop",
+  "change_log": "what changed in this version?"
+}
